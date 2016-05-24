@@ -1,0 +1,28 @@
+html {
+
+}
+
+body {
+  text-align: center;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  background-image: url("/Users/Guest/Desktop/my-first-webpage/images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: fantasy;
+}
+
+h1 {
+
+}
+
+h2 h3 {
+
+}
+
+h4 {
+  font-weight: normal;
+}
+
+p {
+  font-style: italic;
+}
