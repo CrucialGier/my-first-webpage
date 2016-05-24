@@ -1,12 +1,12 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{First webpage made using HTML}, {5/24/2016}_
+#### _First webpage made using HTML, 5/24/2016_
 
-#### By _**{Stewart Cole, James Howard, Tim Jung}**_
+#### By _**Stewart Cole, James Howard, Tim Jung**_
 
 ## Description
 
-_{The webpage describes some of our favorite things. Links are provided for further education on the topic. }_
+_The webpage describes some of our favorite things. Links are provided for further education on the topic. _
 
 ## Setup/Installation Requirements
 
@@ -16,19 +16,19 @@ _{The webpage describes some of our favorite things. Links are provided for furt
 
 ## Known Bugs
 
-_{Too simple to have any bugs.}_
+_Too simple to have any bugs._
 
 ## Support and contact details
 
-_{Send actual mail with $20 inside to: 400 SW 6th Ave #800, Portland, OR 97204 for TJ and SC.}_
+_Send actual mail with $20 inside to: 400 SW 6th Ave #800, Portland, OR 97204 for TJ and SC._
 
 ## Technologies Used
 
-_{atom}_
-_{HTML}_
+_atom_
+_HTML_
 
 ### License
 
-*{This software is licensed under the GPL license.}*
+*This software is licensed under the GPL license.*
 
-Copyright (c) 2016 **_{Stewart Cole, James Howard, Tim Jung}_**
+Copyright (c) 2016 **_Stewart Cole, James Howard, Tim Jung_**
